@@ -44,7 +44,8 @@ Student-AI/
 └── README.md
 
  ## screen shot
-<img width="1387" height="908" alt="image" src="https://github.com/user-attachments/assets/8cbfc4f6-e0bf-41d2-bc94-67e3671b960e" />
+<img width="1217" height="880" alt="image" src="https://github.com/user-attachments/assets/13cecdcb-14fa-4bfc-9d07-e21806d12afe" />
+
 
 
 
